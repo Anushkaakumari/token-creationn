@@ -26,3 +26,9 @@ Something like this will come in the terminal 2. Copy account and paste in the m
 
 Now paste the same address in the burn function and pass let say value 500 in the value parameter
 Then again check the total supply
+Help
+For any issue with the code take help of debug option.
+
+Authors
+Anushka kumari anushka.ak29@gmail.com
+8168563516
